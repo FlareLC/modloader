@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="modloader">
+    <output-path>$PROJECT_DIR$/../output</output-path>
+    <root id="archive" name="modloader.jar">
+      <element id="module-output" name="modloader" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.4/asm-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/9.4/asm-commons-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.4/asm-analysis-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-util/9.4/asm-util-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/9.4/asm-tree-9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/bodyalhoha/remake/1.0.0/remake-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
